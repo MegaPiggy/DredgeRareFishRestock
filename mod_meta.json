@@ -1,0 +1,9 @@
+{
+  "Author": "MegaPiggy",
+  "Name": "Rare Fish Restock",
+  "ModGUID": "megapiggy.rarefishrestock",
+  "Entrypoint": "RareFishRestock.Main/Initialize",
+  "Version": "1.0",
+  "ModAssembly": "RareFishRestock.dll",
+  "MinWinchVersion": "alpha-1.4"
+}
