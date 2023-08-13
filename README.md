@@ -6,8 +6,9 @@ The fish from that pursuit are the Oarfish, Gulper Eel, Goliath Tigerfish, and C
 There are a few other places that don't restock, but the Recording Rarities fish are the only one-time fish because they don't have another restocking fishing spot anywhere else
 
 There are a ton of unrestocking spots for the Red Snapper.
-
 The only other spots are a Ghost Shark and Barreleye (each only having one unrestockable spot)
+
+According to one of the devs these other spots are actually bugs (I guess I found a bug)
 
 - Barreleye spot is in between twisted strand and stellar basin (E7).
 - Ghost Shark spot is by Old Fortress (B6).
