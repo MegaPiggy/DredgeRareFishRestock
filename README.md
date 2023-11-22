@@ -1,19 +1,14 @@
 # Dredge Rare Fish Restock
 Makes the fish from the Recording Rarities pursuit replenish themselves just like every other fish.
 
-The fish from that pursuit are the Oarfish, Gulper Eel, Goliath Tigerfish, and Coelacanth.
+The fish from that pursuit are the Oarfish, Gulper Eel, Goliath Tigerfish, and Coelacanth. As well as the Sleeper Shark from Pale Reach DLC.
 
-There are a few other places that don't restock, but the Recording Rarities fish are the only one-time fish because they don't have another restocking fishing spot anywhere else
+Another thing this mod does is restock a bunch of one-time dredge spots. (rings, earrings, etc)
 
-There are a ton of unrestocking spots for the Red Snapper.
-The only other spots are a Ghost Shark and Barreleye (each only having one unrestockable spot)
+This should work on any new fish added in newer update because it searches for only one-time only fishing spots.
 
-According to one of the devs these other spots are actually bugs (I guess I found a bug)
-
-- Barreleye spot is in between twisted strand and stellar basin (E7).
-- Ghost Shark spot is by Old Fortress (B6).
-
-Another thing this mod does is restock a bunch of dredge spots.
+In past updates there used to be one Ghost Shark unrestocking spot, and one Barreleye unrestocking spot, and a ton of unrestocking spots for the Red Snapper. 
+According to one of the devs these other spots were actually bugs (I guess I found a bug)
 
 [![GitHub issues](https://img.shields.io/github/issues/MegaPiggy/DredgeRareFishRestock?style=for-the-badge)](https://github.com/MegaPiggy/DredgeRareFishRestock/issues)
 [![GitHub all releases](https://img.shields.io/github/downloads/MegaPiggy/DredgeRareFishRestock/total?style=for-the-badge)](https://github.com/MegaPiggy/DredgeRareFishRestock/releases)
